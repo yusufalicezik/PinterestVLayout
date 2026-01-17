@@ -45,7 +45,7 @@ Add PinterestVLayout to your project using Swift Package Manager:
 1. In Xcode, select **File → Add Package Dependencies...**
 2. Enter the repository URL:
 ```
-https://github.com/yourusername/PinterestVLayout.git
+https://github.com/yusufalicezik/PinterestVLayout.git
 ```
 3. Select the version you want to use
 
