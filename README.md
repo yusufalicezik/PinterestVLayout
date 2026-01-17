@@ -7,6 +7,17 @@
 
 A modern, high-performance Pinterest/Masonry style layout framework for SwiftUI with lazy loading, pagination, and multi-section support.
 
+## 🎨 Screenshots
+
+### Single Section Layout
+<img src="imgs/single-list.png" alt="Single Section" width="250"/>
+
+### Multi-Section Layout with Headers
+<img src="imgs/multisection1.png" alt="Multi-Section 1" width="250"/> <img src="imgs/multisection2.png" alt="Multi-Section 2" width="250"/>
+
+### 4-Column Grid
+<img src="imgs/single-list-4-column.png" alt="4-Column Grid" width="250"/>
+
 ## ✨ Features
 
 - 🎨 **Pinterest-Style Waterfall Layout** - Beautiful masonry grid with dynamic item heights
@@ -320,17 +331,6 @@ struct PostCardView: View {
     }
 }
 ```
-
-## 🎨 Screenshots
-
-### Single Section Layout
-<img src="imgs/single-list.png" alt="Single Section" width="250"/>
-
-### Multi-Section Layout with Headers
-<img src="imgs/multisection1.png" alt="Multi-Section 1" width="250"/> <img src="imgs/multisection2.png" alt="Multi-Section 2" width="250"/>
-
-### 4-Column Grid
-<img src="imgs/single-list-4-column.png" alt="4-Column Grid" width="250"/>
 
 ## ⚙️ Advanced Configuration
 
